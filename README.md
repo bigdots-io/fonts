@@ -2,7 +2,7 @@
 
 The following fonts are available to use when displaying text on your bigdots.io LED board.
 
-### System 6
+## System 6
 
 ![System 6](images/system-6.png)
 
@@ -16,7 +16,7 @@ The smallest possible font, 6 dots high.
 * Punction supported:   Yes
 
 
-### System 16
+## System 16
 
 ![System 16](images/system-16.png)
 
