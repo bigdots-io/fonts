@@ -2,7 +2,7 @@
   "height": 6,
   "width": 5,
   "name": "System Micro",
-  "description": "System standard font designed to be the absolute smallest possible font",
+  "description": "The smallest possible font, 6 dots high",
   "author": "Roy Kolak",
   "monospace": false,
   "characters": {

@@ -2,7 +2,7 @@
   "height": 14,
   "width": 6,
   "name": "System 16",
-  "description": "System standard font for displaying characters when height is not a constraint",
+  "description": "Designed for at least 16 dots high, though top and bottom padding is builtin.",
   "author": "Roy Kolak",
   "monospace": false,
   "characters": {
