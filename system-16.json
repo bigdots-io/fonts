@@ -1,7 +1,7 @@
 {
   "height": 14,
   "width": 6,
-  "name": "System Medium",
+  "name": "System 16",
   "description": "System standard font for displaying characters when height is not a constraint",
   "author": "Roy Kolak",
   "monospace": false,
