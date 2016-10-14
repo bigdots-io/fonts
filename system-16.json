@@ -1120,7 +1120,7 @@
       "coordinates": []
     },
     ".": {
-      "width": "1",
+      "width": 1,
       "coordinates": [
         {
           "y": 11,
@@ -1202,8 +1202,8 @@
           "opacity": 1
         }
       ],
-      "width": "3",
-      "height": "14"
+      "width": 3,
+      "height": 14
     },
     ")": {
       "coordinates": [
@@ -1278,8 +1278,8 @@
           "opacity": 1
         }
       ],
-      "width": "3",
-      "height": "14"
+      "width": 3,
+      "height": 14
     },
     "-": {
       "coordinates": [
@@ -1309,8 +1309,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "]": {
       "coordinates": [
@@ -1405,8 +1405,8 @@
           "opacity": 1
         }
       ],
-      "width": "3",
-      "height": "14"
+      "width": 3,
+      "height": 14
     },
     "[": {
       "coordinates": [
@@ -1501,8 +1501,8 @@
           "opacity": 1
         }
       ],
-      "width": "3",
-      "height": "14"
+      "width": 3,
+      "height": 14
     },
     ":": {
       "coordinates": [
@@ -1517,8 +1517,8 @@
           "opacity": 1
         }
       ],
-      "width": "1",
-      "height": "14"
+      "width": 1,
+      "height": 14
     },
     ";": {
       "coordinates": [
@@ -1538,11 +1538,11 @@
           "opacity": 1
         }
       ],
-      "width": "2",
-      "height": "14"
+      "width": 2,
+      "height": 14
     },
     ",": {
-      "width": "2",
+      "width": 2,
       "coordinates": [
         {
           "y": 11,
@@ -1555,7 +1555,7 @@
           "opacity": 1
         }
       ],
-      "height": "14"
+      "height": 14
     },
     "?": {
       "coordinates": [
@@ -1625,8 +1625,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "/": {
       "coordinates": [
@@ -1740,8 +1740,8 @@
           "opacity": 1
         }
       ],
-      "width": "7",
-      "height": "14"
+      "width": 7,
+      "height": 14
     },
     "#": {
       "coordinates": [
@@ -1856,8 +1856,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "$": {
       "coordinates": [
@@ -1997,8 +1997,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "!": {
       "coordinates": [
@@ -2048,8 +2048,8 @@
           "opacity": 1
         }
       ],
-      "width": "1",
-      "height": "14"
+      "width": 1,
+      "height": 14
     },
     "@": {
       "coordinates": [
@@ -2214,8 +2214,8 @@
           "opacity": 1
         }
       ],
-      "width": "7",
-      "height": "14"
+      "width": 7,
+      "height": 14
     },
     "&": {
       "coordinates": [
@@ -2429,8 +2429,8 @@
           "opacity": 1
         }
       ],
-      "width": "7",
-      "height": "14"
+      "width": 7,
+      "height": 14
     },
     "^": {
       "coordinates": [
@@ -2460,8 +2460,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "_": {
       "coordinates": [
@@ -2491,8 +2491,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "=": {
       "coordinates": [
@@ -2537,8 +2537,8 @@
           "opacity": 1
         }
       ],
-      "width": "4",
-      "height": "14"
+      "width": 4,
+      "height": 14
     },
     "R": {
       "coordinates": [
@@ -2663,8 +2663,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "Y": {
       "coordinates": [
@@ -2754,8 +2754,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "O": {
       "coordinates": [
@@ -2870,8 +2870,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "U": {
       "coordinates": [
@@ -2981,8 +2981,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "N": {
       "coordinates": [
@@ -3152,8 +3152,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "S": {
       "coordinates": [
@@ -3248,8 +3248,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "P": {
       "coordinates": [
@@ -3364,8 +3364,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "T": {
       "coordinates": [
@@ -3445,8 +3445,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "A": {
       "coordinates": [
@@ -3561,8 +3561,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "B": {
       "coordinates": [
@@ -3697,8 +3697,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "C": {
       "coordinates": [
@@ -3783,8 +3783,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "D": {
       "coordinates": [
@@ -3909,8 +3909,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "E": {
       "coordinates": [
@@ -4020,8 +4020,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "F": {
       "coordinates": [
@@ -4111,8 +4111,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "G": {
       "coordinates": [
@@ -4222,8 +4222,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "H": {
       "coordinates": [
@@ -4393,8 +4393,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "I": {
       "coordinates": [
@@ -4494,8 +4494,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "J": {
       "coordinates": [
@@ -4580,8 +4580,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "K": {
       "coordinates": [
@@ -4691,8 +4691,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "M": {
       "coordinates": [
@@ -4877,8 +4877,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "Q": {
       "coordinates": [
@@ -5012,7 +5012,9 @@
           "x": 4,
           "opacity": 1
         }
-      ]
+      ],
+      "width": 6,
+      "height": 14
     },
     "V": {
       "coordinates": [
@@ -5152,8 +5154,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "L": {
       "coordinates": [
@@ -5223,8 +5225,8 @@
           "opacity": 1
         }
       ],
-      "width": "4",
-      "height": "14"
+      "width": 4,
+      "height": 14
     },
     "W": {
       "coordinates": [
@@ -5389,8 +5391,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "X": {
       "coordinates": [
@@ -5515,8 +5517,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "Z": {
       "coordinates": [
@@ -5631,8 +5633,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "r": {
       "coordinates": [
@@ -5687,8 +5689,8 @@
           "opacity": 1
         }
       ],
-      "width": "4",
-      "height": "14"
+      "width": 4,
+      "height": 14
     },
     "y": {
       "coordinates": [
@@ -5838,8 +5840,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "o": {
       "coordinates": [
@@ -5924,8 +5926,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "u": {
       "coordinates": [
@@ -6005,8 +6007,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "n": {
       "coordinates": [
@@ -6091,8 +6093,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "s": {
       "coordinates": [
@@ -6172,8 +6174,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "p": {
       "coordinates": [
@@ -6278,8 +6280,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "t": {
       "coordinates": [
@@ -6354,8 +6356,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "a": {
       "coordinates": [
@@ -6450,8 +6452,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "b": {
       "coordinates": [
@@ -6561,8 +6563,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "c": {
       "coordinates": [
@@ -6632,8 +6634,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "d": {
       "coordinates": [
@@ -6738,8 +6740,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "e": {
       "coordinates": [
@@ -6834,8 +6836,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "f": {
       "coordinates": [
@@ -6910,8 +6912,8 @@
           "opacity": 1
         }
       ],
-      "width": "4",
-      "height": "14"
+      "width": 4,
+      "height": 14
     },
     "g": {
       "coordinates": [
@@ -7026,8 +7028,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "h": {
       "coordinates": [
@@ -7127,8 +7129,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "i": {
       "coordinates": [
@@ -7173,8 +7175,8 @@
           "opacity": 1
         }
       ],
-      "width": "1",
-      "height": "14"
+      "width": 1,
+      "height": 14
     },
     "j": {
       "coordinates": [
@@ -7234,8 +7236,8 @@
           "opacity": 1
         }
       ],
-      "width": "3",
-      "height": "14"
+      "width": 3,
+      "height": 14
     },
     "k": {
       "coordinates": [
@@ -7330,8 +7332,8 @@
           "opacity": 1
         }
       ],
-      "width": "4",
-      "height": "14"
+      "width": 4,
+      "height": 14
     },
     "m": {
       "coordinates": [
@@ -7431,8 +7433,8 @@
           "opacity": 1
         }
       ],
-      "width": "7",
-      "height": "14"
+      "width": 7,
+      "height": 14
     },
     "q": {
       "coordinates": [
@@ -7532,8 +7534,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     },
     "v": {
       "coordinates": [
@@ -7603,8 +7605,8 @@
           "opacity": 1
         }
       ],
-      "width": "7",
-      "height": "14"
+      "width": 7,
+      "height": 14
     },
     "l": {
       "coordinates": [
@@ -7664,8 +7666,8 @@
           "opacity": 1
         }
       ],
-      "width": "2",
-      "height": "14"
+      "width": 2,
+      "height": 14
     },
     "w": {
       "coordinates": [
@@ -7760,8 +7762,8 @@
           "opacity": 1
         }
       ],
-      "width": "7",
-      "height": "14"
+      "width": 7,
+      "height": 14
     },
     "x": {
       "coordinates": [
@@ -7831,8 +7833,8 @@
           "opacity": 1
         }
       ],
-      "width": "7",
-      "height": "14"
+      "width": 7,
+      "height": 14
     },
     "z": {
       "coordinates": [
@@ -7927,8 +7929,8 @@
           "opacity": 1
         }
       ],
-      "width": "5",
-      "height": "14"
+      "width": 5,
+      "height": 14
     }
   }
 }
