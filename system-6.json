@@ -998,7 +998,8 @@
       "height": 6
     },
     " ": {
-      "coordinates": []
+      "coordinates": [],
+      "width": 4
     },
     ".": {
       "width": 1,
