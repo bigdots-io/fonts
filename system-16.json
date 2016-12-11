@@ -1117,7 +1117,8 @@
       "height": 14
     },
     " ": {
-      "coordinates": []
+      "coordinates": [],
+      "width": 5
     },
     ".": {
       "width": 1,
